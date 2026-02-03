@@ -26,8 +26,7 @@ gzip, lzma, xz, lzo
 
 
 
-# How to start
-# (Windows)
+# How to start (Windows)
 
 
 1: Open CMD (Win + R, type in: cmd) 
