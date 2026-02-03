@@ -41,9 +41,10 @@ You can just double click the .py file
 
 # ! You can ...
 
-1. Replace the firmware.bin file with yours
+1. Replace the firmware.bin file with yours.
 First .bin file is just a test with
-a router f/w
+a router f/w.
+(but you cant change the file's name).
 
 
 
