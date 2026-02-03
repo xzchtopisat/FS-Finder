@@ -23,3 +23,19 @@ gzip, lzma, xz, lzo
 
 
 3: (Optional) You can try unpacking the file system using HxD, etc.
+
+
+
+# How to start
+# (Windows)
+
+
+1: Open CMD (Win + R, type in: cmd) 
+
+
+2: Type in CMD: cd (your disk)/(folder)/FS-Finder/ ; python fs_finder.py firmware.bin
+
+OR
+You can just double click the .py file
+
+
