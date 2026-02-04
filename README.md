@@ -39,7 +39,7 @@ You can just double click the .py file
 
 
 
-# ! You can ...
+# You can ...
 
 1. Replace the firmware.bin file with yours.
 First .bin file is just a test with
