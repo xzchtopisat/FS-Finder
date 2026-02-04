@@ -32,7 +32,7 @@ gzip, lzma, xz, lzo
 1: Open CMD (Win + R, type in: cmd) 
 
 
-2: Type in CMD: cd (your disk)/(folder)/FS-Finder/ ; python fs_finder.py firmware.bin
+2: Type in CMD: cd (your disk)/(folder)/FS-Finder/ ; python fs_finder.py (your file).bin
 
 OR
 You can just double click the .py file
@@ -44,7 +44,7 @@ You can just double click the .py file
 1. Replace the firmware.bin file with yours.
 First .bin file is just a test with
 a router f/w.
-(but you cant change the file's name).
+
 
 
 
