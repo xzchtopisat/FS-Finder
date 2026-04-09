@@ -38,6 +38,16 @@ OR
 You can just double click the .py file
 
 
+# How to start (Linux)
+
+1. Open the terminal
+
+
+2. type in: cd /home/(ur username/Downloads/FS-Finder-main/
+
+   
+3. type in: python3 fs_finder.py (ur file).bin
+
 
 # You can ...
 
